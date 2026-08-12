@@ -5,5 +5,7 @@ node_modules/
 .DS_Store
 
 # 训练记录
+go标注.md
 训练记录.md
 *.xlsx
+题目.txt
